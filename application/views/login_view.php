@@ -13,9 +13,11 @@
 		<td>Пароль</td>
 		<td><input type="password" name="password"></td>
 	</tr>
-	<th colspan="2" style="text-align: right">
-	<input type="submit" value="Войти" name="btn"
-	style="width: 150px; height: 30px;"></th>
+	<tr>
+		<th colspan="2" style="text-align: right">
+		<input type="submit" value="Войти" name="btn"
+		style="width: 150px; height: 30px;"></th>
+	</tr>
 </table>
 </form>
 </p>
